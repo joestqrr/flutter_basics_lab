@@ -1,11 +1,11 @@
 # ANSWERS.md
 
-**Name:** Radj P Delarmente
+**Name:** Radj P. Delarmente
 **Student ID:** 241-00032
 
 ## 1. GitHub link
 
-https://github.com/YOUR_USERNAME/flutter_basics_lab
+https://github.com/joestqrr/flutter_basics_lab
 
 ## 2. Last three build() lines (Activity 2)
 
